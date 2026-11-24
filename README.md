@@ -1,10 +1,11 @@
-## Dharineesh Athikesavan
+```python
+dharineesh = {
+    "builds": "AI & ML products",
+    "cert":   "AWS Solutions Architect",
+    "into":   ["speech", "vision", "LLMs", "AI security"],
+    "stack":  ["Python", "PyTorch", "AWS", "Docker"],
+    "now":    ["AccentBridge", "CentralWatch"],
+}
+```
 
-I build AI and ML products.
-
-- AWS Certified Solutions Architect – Associate
-- Speech, computer vision, LLMs and AI security
-- From training models to deploying them on the cloud
-- Open to AI/ML, DevOps and AWS roles
-
-[Portfolio](https://dharineesh1309.github.io) · [LinkedIn](https://www.linkedin.com/in/dharineesh-athikesavan-814056292) · [Email](mailto:dharineeshathikesavan@gmail.com)
+[portfolio](https://dharineesh1309.github.io) · [linkedin](https://www.linkedin.com/in/dharineesh-athikesavan-814056292) · [email](mailto:dharineeshathikesavan@gmail.com)
